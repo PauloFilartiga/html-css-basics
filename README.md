@@ -2,7 +2,7 @@
 
 Olá! 👋 Este repositório marca o início da minha jornada de aprendizado em desenvolvimento web, focado nos fundamentos essenciais de **HTML** e **CSS**, que já pratico desde 2023 e que agora estou _revisando_, _treinando_ e _registrando_.
 
-##Aqui você encontrará uma coleção de exercícios, projetos e experimentos que demonstram minha evolução na construção de páginas web estáticas e na estilização de elementos. É um diário do meu progresso, desde o básico até conceitos mais avançados de layout e design.
+Aqui você encontrará uma coleção de exercícios, projetos e experimentos que demonstram minha evolução na construção de páginas web estáticas e na estilização de elementos. É um diário do meu progresso, desde o básico até conceitos mais avançados de layout e design.
 ---
 ## 🎯 O Que Você Encontrará Aqui?
 * **Estrutura HTML Semântica:** Como organizar o conteúdo de uma página web de forma clara e acessível.
@@ -27,7 +27,7 @@ git clone https://github.com/PauloFilartiga/html-css-basics.git
 ```Bash
 cd html-css-basic/exercicio
 ```
-3.**Abra o arquivo index.html (ou o arquivo principal) no seu navegador preferido.** 
+3.**Abra o arquivo index.html (ou o arquivo principal) no seu navegador preferido:** 
 Você pode fazer isso arrastando o arquivo para a janela do navegador ou clicando duas vezes nele no explorador de arquivos.
 ---
 ## ✨ Próximos Passos ( roadmap ):
